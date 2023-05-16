@@ -1,0 +1,18 @@
+id: IB581E4A6
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:14.753696
+last_modified: 2023-01-04 11:27:14.753712
+source_metadata:
+  collections:
+  - Adeu Rinpoche Series
+  - Works of Tibetan Masters
+bases:
+  6BC0:
+    title: Prayer to Drukpa Kunley
+    base_file: 6BC0.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
